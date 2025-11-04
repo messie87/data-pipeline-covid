@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+pyspark
+sqlalchemy
+psycopg2-binary
